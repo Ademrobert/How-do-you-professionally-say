@@ -128,3 +128,24 @@
 
 ----------
 
+**"We do not need to have a meeting about this."**
+=
+"Being respectful of everyone's time let's discuss this through email until we have a more defined agenda."
+
+----------
+
+**"Did you just take credit for my work?"**
+=
+"It is great to see my ideas being exposed to a wider audience and I would have appreciated the opportunity to have been included in the delivery."
+
+----------
+
+**"Google that your self"**
+=
+"The internet is a great resource for these types of questions and I am available to clarify elements that you are not able to find online."
+
+------------
+
+**"What you are saying does not make sense"**
+=
+"We seem to have a different understanding on this. Can you elaborate further on your thought process here?"
