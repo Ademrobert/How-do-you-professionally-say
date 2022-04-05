@@ -149,3 +149,21 @@
 **"What you are saying does not make sense"**
 =
 "We seem to have a different understanding on this. Can you elaborate further on your thought process here?"
+
+------------
+
+**"I am not paid enough to do this"
+=
+"This falls out of my job description but if the opportunity for a role expansion becomes available I would be happy to discuss reworking my contract to better align with these new responsibilities"
+
+**"I totally forgot about your email"**
+=
+"Thank you for your patience"
+
+**"I'm going to need a whole lot of more information if you want this me to do this"**
+=
+"Please let me know when further details become available as I require more information to successfully complete this task"
+
+**"Stop calling me before my workday even starts"**
+=
+"If you need to contact me, please note that my working hours being at 8 am and 6 pm communications received prior to this won't be seen. "
