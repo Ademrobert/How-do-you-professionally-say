@@ -156,14 +156,32 @@
 =
 "This falls out of my job description but if the opportunity for a role expansion becomes available I would be happy to discuss reworking my contract to better align with these new responsibilities"
 
+--------------
+
 **"I totally forgot about your email"**
 =
 "Thank you for your patience"
+
+---------------
 
 **"I'm going to need a whole lot of more information if you want this me to do this"**
 =
 "Please let me know when further details become available as I require more information to successfully complete this task"
 
+-----------------
+
 **"Stop calling me before my workday even starts"**
 =
 "If you need to contact me, please note that my working hours being at 8 am and 6 pm communications received prior to this won't be seen. "
+
+-------------------
+
+**"Check your inbox, I already sent this to you!"**
+=
+"I previously sent you an email regarding that but please let me know if something went wrong in transit"
+
+-------------------
+
+**"I couldn't care less"**
+=
+"I will defer to your judgment on this as I am not passionate either way and I trust your expertise."
