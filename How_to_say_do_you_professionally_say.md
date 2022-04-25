@@ -44,7 +44,9 @@
 
 ----------
 
-“I’ll provide an update when I have one. stop bothering me!”
+“I’ll provide an update when I have one. 
+
+bothering me!”
 =
 “You have not heard from the because further information is not available at this time, Once I have an update I’ll be sure to loop you in.”
 
@@ -185,3 +187,14 @@
 **"I couldn't care less"**
 =
 "I will defer to your judgment on this as I am not passionate either way and I trust your expertise."
+
+
+**"I told you so and now this is your problem"**
+=
+"I did previosly note that this was a likely outcome. How do you plan to resolve this?"
+
+-------------------------------------------
+
+**"Stop trying to make me do your work!"
+=
+"I am not able to offer you additional support in completing your workload"
